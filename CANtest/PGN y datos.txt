@@ -1,2 +1,2 @@
-PGN: f004 
-Data:ff ff b3 d5 24 ff ff ff 
+f004#ffff88aa12ffffff#200916#164047
+

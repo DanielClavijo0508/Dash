@@ -17,6 +17,10 @@
 #include "CANInterface.h"
 #include "COM1939.h"
 
+//////////////////////////////////////
+#include <time.h>
+/////////////////////////////////////
+
 byte msgNAME[] =
 {
   (byte)(NAME_IDENTITY_NUMBER & 0xFF),
@@ -103,12 +107,22 @@ int main()
 		{
 		    FILE* fichero;
 		    fichero = fopen("PGN y datos.txt", "wt");
-		    fprintf(fichero, "PGN: %x \n", lPGN);
-		    fprintf(fichero, "Data:");
-			for(nIndex = 0; nIndex < nDataLen; nIndex++)
+		    fprintf(fichero, "%x#", lPGN);
+		    for(nIndex = 0; nIndex < nDataLen; nIndex++)
 			{
-			    fprintf(fichero, "%x ", nData[nIndex]);
+			    fprintf(fichero, "%x", nData[nIndex]);
 			}
+
+/////
+	time_t tiempo = time(0);
+        struct tm *tlocal = localtime(&tiempo);
+        char output[128];
+        strftime(output,128,"%y%m%d#%H%M%S",tlocal);
+        fprintf(fichero,"#%s\n",output);
+
+
+////
+		    fprintf(fichero, "\n");
 		    fclose(fichero);
 		    printf("Proceso completado");
 		    cont=1;
