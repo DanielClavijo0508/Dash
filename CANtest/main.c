@@ -83,6 +83,9 @@ int main()
 	float volvo=0;
 	float prev=0;
 	int cont=0;//contol de pgn si entra o no
+	//
+		float res=0; //residuo para conteo microsegundos
+	//
 /////////////////////////////////
 
 
@@ -106,7 +109,7 @@ int main()
 		if(lPGN==0xFEEA||lPGN==0xFEF5||lPGN==0xFE4E||lPGN==0x1FF25||lPGN==0xFF25||lPGN==0xF009||lPGN==0xFEF1||lPGN==0x1FF27||lPGN==0xFEEC||lPGN==0xFEF3||lPGN==0xFEF1||lPGN==0xFEEE||lPGN==0xFEEF||lPGN==0xF004||lPGN==0xFD7D||lPGN==0xFEC1||lPGN==0xFEF2||lPGN==0xFEE9||lPGN==0xFEFC||lPGN==0xF005)
 		{
 		    FILE* fichero;
-		    fichero = fopen("PGN y datos.txt", "wt");
+		    fichero = fopen("PGN y datos.txt" , "wt");
 		    fprintf(fichero, "%x#", lPGN);
 		    for(nIndex = 0; nIndex < nDataLen; nIndex++)
 			{
@@ -118,7 +121,9 @@ int main()
         struct tm *tlocal = localtime(&tiempo);
         char output[128];
         strftime(output,128,"%y%m%d#%H%M%S",tlocal);
-        fprintf(fichero,"#%s\n",output);
+        fprintf(fichero,"#%s",output);
+	res=conteo2%1000;
+	fprintf(fichero,"#%d",res);
 
 
 ////
