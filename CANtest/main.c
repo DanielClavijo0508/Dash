@@ -108,8 +108,12 @@ int main()
 //////////////////////////////////////////
 		if(lPGN==0xFEEA||lPGN==0xFEF5||lPGN==0xFE4E||lPGN==0x1FF25||lPGN==0xFF25||lPGN==0xF009||lPGN==0xFEF1||lPGN==0x1FF27||lPGN==0xFEEC||lPGN==0xFEF3||lPGN==0xFEF1||lPGN==0xFEEE||lPGN==0xFEEF||lPGN==0xF004||lPGN==0xFD7D||lPGN==0xFEC1||lPGN==0xFEF2||lPGN==0xFEE9||lPGN==0xFEFC||lPGN==0xF005)
 		{
-		    FILE* fichero;
-		    fichero = fopen("PGN y datos.txt" , "wt");
+			FILE *fichero;
+			char archivo[50];
+			char extension[]=".txt";
+			sprintf( archivo, "%x %s", lPGN, extension );
+			fichero = fopen(archivo, "wt");
+
 		    fprintf(fichero, "%x#", lPGN);
 		    for(nIndex = 0; nIndex < nDataLen; nIndex++)
 			{
