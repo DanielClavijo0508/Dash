@@ -111,7 +111,7 @@ int main()
 			FILE *fichero;
 			char archivo[50];
 			char extension[]=".txt";
-			sprintf( archivo, "%x %s", lPGN, extension );
+			sprintf( archivo, "PGN %x %s", lPGN, extension );
 			fichero = fopen(archivo, "wt");
 
 		    fprintf(fichero, "%x#", lPGN);
