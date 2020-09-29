@@ -111,28 +111,37 @@ int main()
 			FILE *fichero;
 			char archivo[50];
 			char extension[]=".txt";
-			sprintf( archivo, "PGN %x %s", lPGN, extension );
+			sprintf( archivo, "%x%s",lPGN , extension );
 			fichero = fopen(archivo, "wt");
 
-		    fprintf(fichero, "%x#", lPGN);
+		    fprintf(fichero, "%x\n", lPGN);
 		    for(nIndex = 0; nIndex < nDataLen; nIndex++)
 			{
 			    fprintf(fichero, "%x", nData[nIndex]);
 			}
 
 /////
-	time_t tiempo = time(0);
+	fprintf(fichero,"\n");
+
+	time_t now = time(NULL);    
+    	if (now == -1) {
+                puts("The time() function failed");
+    	}
+	    fprintf(fichero,"%ld\n", now);
+
+
+/*	time_t tiempo = time(0);
         struct tm *tlocal = localtime(&tiempo);
         char output[128];
-        strftime(output,128,"%y%m%d#%H%M%S",tlocal);
-        fprintf(fichero,"#%s",output);
+        strftime(output,128,"%y%m%d%H%M%S",tlocal);
+        fprintf(fichero,"%s",output);
 	res=conteo2%1000;
 	fprintf(fichero,"#%d",res);
 
 
 ////
-		    fprintf(fichero, "\n");
-		    fclose(fichero);
+//		    fprintf(fichero, "\n");
+*/		    fclose(fichero);
 		    printf("Proceso completado");
 		    cont=1;
 		}
