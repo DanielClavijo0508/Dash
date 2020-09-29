@@ -111,53 +111,28 @@ int main()
 			FILE *fichero;
 			char archivo[50];
 			char extension[]=".txt";
-<<<<<<< HEAD
-			sprintf( archivo, "%x%s",lPGN , extension );
-=======
 			sprintf( archivo, "PGN%s", extension );
 //			sprintf( archivo, "PGN %x %s", lPGN, extension );
->>>>>>> 4faf6073691c2e86a00f3ae62ccf81b9f8ac88b1
 			fichero = fopen(archivo, "wt");
 
-		    fprintf(fichero, "%x\n", lPGN);
+		    fprintf(fichero, "%x-", lPGN);
 		    for(nIndex = 0; nIndex < nDataLen; nIndex++)
 			{
 			    fprintf(fichero, "%x", nData[nIndex]);
 			}
 
 /////
-<<<<<<< HEAD
-	fprintf(fichero,"\n");
-
-	time_t now = time(NULL);    
-    	if (now == -1) {
-                puts("The time() function failed");
-    	}
-	    fprintf(fichero,"%ld\n", now);
-
-
-/*	time_t tiempo = time(0);
-        struct tm *tlocal = localtime(&tiempo);
-        char output[128];
-        strftime(output,128,"%y%m%d%H%M%S",tlocal);
-        fprintf(fichero,"%s",output);
-=======
 /*	time_t tiempo = time(0);
         struct tm *tlocal = localtime(&tiempo);
         char output[128];
         strftime(output,128,"%y%m%d-%H%M%S",tlocal);
         fprintf(fichero,"\n%s",output);
->>>>>>> 4faf6073691c2e86a00f3ae62ccf81b9f8ac88b1
 	res=conteo2%1000;
 	fprintf(fichero,"-%d",res);
 
 
 ////
-<<<<<<< HEAD
-//		    fprintf(fichero, "\n");
-=======
 		    fprintf(fichero, "\n");
->>>>>>> 4faf6073691c2e86a00f3ae62ccf81b9f8ac88b1
 */		    fclose(fichero);
 		    printf("Proceso completado");
 		    cont=1;
@@ -426,3 +401,4 @@ int kbhit(char* key)
     return OK;
 
 }// end kbhit
++56
