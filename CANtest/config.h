@@ -45,8 +45,8 @@
                                                            The maximum J1939 message length = 255 x 7 = 1785
                                                            This buffer size provides sufficient space for stuff bytes */
 #define COM_BUFFER_SIZE                 256
-#define READ_TIMEOUT                    500
-#define WRITE_TIMEOUT                   500
+#define READ_TIMEOUT                    200
+#define WRITE_TIMEOUT                   200
 #define REC_BUFFER_FILLTIME             80
 
 /* Gateway operation mode                                                           */

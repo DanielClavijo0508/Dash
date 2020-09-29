@@ -115,7 +115,7 @@ int main()
 //			sprintf( archivo, "PGN %x %s", lPGN, extension );
 			fichero = fopen(archivo, "wt");
 
-		    fprintf(fichero, "%x\n", lPGN);
+		    fprintf(fichero, "%x-", lPGN);
 		    for(nIndex = 0; nIndex < nDataLen; nIndex++)
 			{
 			    fprintf(fichero, "%x", nData[nIndex]);
@@ -401,3 +401,4 @@ int kbhit(char* key)
     return OK;
 
 }// end kbhit
++56
