@@ -111,13 +111,11 @@ int main()
 			FILE *fichero;
 			char archivo[50];
 			char extension[]=".txt";
-<<<<<<< HEAD
+
 			sprintf( archivo, "%x%s",lPGN , extension );
-=======
-			sprintf( archivo, "PGN%s", extension );
+//			sprintf( archivo, "PGN%s", extension );
 //			sprintf( archivo, "PGN %x %s", lPGN, extension );
->>>>>>> 4faf6073691c2e86a00f3ae62ccf81b9f8ac88b1
-			fichero = fopen(archivo, "wt");
+		fichero = fopen(archivo, "wt");
 
 		    fprintf(fichero, "%x\n", lPGN);
 		    for(nIndex = 0; nIndex < nDataLen; nIndex++)
@@ -126,7 +124,7 @@ int main()
 			}
 
 /////
-<<<<<<< HEAD
+
 	fprintf(fichero,"\n");
 
 	time_t now = time(NULL);    
