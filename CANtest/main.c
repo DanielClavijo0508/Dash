@@ -171,8 +171,8 @@ int main()
 		prev=conteon;
 		printf("Activacion: %d\n",conteo);
 		printf("N° de Tramas recibidas: %d\n",a);
-		printf("N° de ciclos realizados (microsegundos): %d\n",conteo2);
-		printf("Tiempo entre PGN (microsegundos): %f\n",volvo);
+		printf("N° de ciclos realizados (milisegundos): %d\n",conteo2);
+		printf("Tiempo entre PGN (milisegundos): %f\n",volvo);
 		printf("PGN valido en SKG %d\n",cont);
 		printf("\n");
 //		printf("prev: %d\n",prev);
@@ -185,8 +185,8 @@ int main()
 		conteo=1;
 		printf("Activacion: %d\n",conteo);
 		printf("N° de Tramas recibidas: %d\n",a);
-		printf("N° de ciclos realizados (microsegundos): %d\n",conteo2);
-		printf("Tiempo entre PGN (microsegundo): %f\n",volvo);
+		printf("N° de ciclos realizados (milisegundos): %d\n",conteo2);
+		printf("Tiempo entre PGN (milisegundos): %f\n",volvo);
 		printf("\n");
 //		printf("prev: %d\n",prev);
 /////////////////////////////////////////
@@ -198,8 +198,8 @@ int main()
 		conteo=0;
 		printf("Activacion: %d\n",conteo);
 		printf("N° de Tramas recibidas: %d\n",a);
-		printf("N° de ciclos realizados (microsegundos): %d\n",conteo2);
-		printf("Tiempo entre PGN (microsegundos): %f\n",volvo);
+		printf("N° de ciclos realizados (milisegundos): %d\n",conteo2);
+		printf("Tiempo entre PGN (milisegundos): %f\n",volvo);
 		printf("\n");
 //		printf("prev: %d\n",prev);
 //////////////////////////////////////////
