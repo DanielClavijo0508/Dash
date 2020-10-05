@@ -1,0 +1,515 @@
+COM Port Init OK. /dev/ttyUSB0
+Press 'h' for Help
+PGN:f004 P:3 SA:37 DA:255 Len:8 Data:ff ff 86 bd 12 ff ff ff 
+Proceso completadoActivacion: 1
+N° de Tramas recibidas: 1
+N° de ciclos realizados (milisegundos): 3
+Tiempo entre PGN (milisegundos): 3.500000
+PGN valido en SKG 1
+
+ RESET ACK
+PGN:f004 P:3 SA:37 DA:255 Len:8 Data:ff ff 86 c2 12 ff ff ff 
+Proceso completadoActivacion: 1
+N° de Tramas recibidas: 2
+N° de ciclos realizados (milisegundos): 69
+Tiempo entre PGN (milisegundos): 66.300003
+PGN valido en SKG 1
+
+PGN:f004 P:3 SA:37 DA:255 Len:8 Data:ff ff 86 c3 12 ff ff ff 
+Proceso completadoActivacion: 1
+N° de Tramas recibidas: 3
+N° de ciclos realizados (milisegundos): 205
+Tiempo entre PGN (milisegundos): 135.600006
+PGN valido en SKG 1
+
+PGN:f003 P:3 SA:37 DA:255 Len:8 Data:ff 0 ff ff ff ff ff ff 
+Activacion: 1
+N° de Tramas recibidas: 4
+N° de ciclos realizados (milisegundos): 240
+Tiempo entre PGN (milisegundos): 34.799999
+PGN valido en SKG 0
+
+PGN:fe6c P:3 SA:37 DA:255 Len:8 Data:38 f ff c0 ff ff 0 0 
+Activacion: 1
+N° de Tramas recibidas: 5
+N° de ciclos realizados (milisegundos): 240
+Tiempo entre PGN (milisegundos): 0.100000
+PGN valido en SKG 0
+
+PGN:f004 P:3 SA:37 DA:255 Len:8 Data:ff ff 86 c8 12 ff ff ff 
+Proceso completadoActivacion: 1
+N° de Tramas recibidas: 6
+N° de ciclos realizados (milisegundos): 251
+Tiempo entre PGN (milisegundos): 11.500000
+PGN valido en SKG 1
+
+PGN:fe6b P:6 SA:37 DA:255 Len:8 Data:ff ff ff ff ff ff ff ff 
+Activacion: 1
+N° de Tramas recibidas: 7
+N° de ciclos realizados (milisegundos): 290
+Tiempo entre PGN (milisegundos): 38.599998
+PGN valido en SKG 0
+
+PGN:f004 P:3 SA:37 DA:255 Len:8 Data:ff ff 86 cb 12 ff ff ff 
+Proceso completadoActivacion: 1
+N° de Tramas recibidas: 8
+N° de ciclos realizados (milisegundos): 329
+Tiempo entre PGN (milisegundos): 38.900002
+PGN valido en SKG 1
+
+PGN:f003 P:3 SA:37 DA:255 Len:8 Data:ff 0 ff ff ff ff ff ff 
+Activacion: 1
+N° de Tramas recibidas: 9
+N° de ciclos realizados (milisegundos): 329
+Tiempo entre PGN (milisegundos): 0.100000
+PGN valido en SKG 0
+
+PGN:fe6c P:3 SA:37 DA:255 Len:8 Data:38 f ff c0 ff ff 0 0 
+Activacion: 1
+N° de Tramas recibidas: 10
+N° de ciclos realizados (milisegundos): 329
+Tiempo entre PGN (milisegundos): 0.100000
+PGN valido en SKG 0
+
+PGN:fef1 P:6 SA:37 DA:255 Len:8 Data:f3 0 0 5c ff ff 1f ff 
+Proceso completadoActivacion: 1
+N° de Tramas recibidas: 11
+N° de ciclos realizados (milisegundos): 329
+Tiempo entre PGN (milisegundos): 0.100000
+PGN valido en SKG 1
+
+PGN:fef2 P:6 SA:37 DA:255 Len:8 Data:2f 0 0 0 ff ff ff ff 
+Proceso completadoActivacion: 1
+N° de Tramas recibidas: 12
+N° de ciclos realizados (milisegundos): 329
+Tiempo entre PGN (milisegundos): 0.100000
+PGN valido en SKG 1
+
+PGN:f005 P:6 SA:37 DA:255 Len:8 Data:7e ff ff 7e ff ff ff ff 
+Proceso completadoActivacion: 1
+N° de Tramas recibidas: 13
+N° de ciclos realizados (milisegundos): 329
+Tiempo entre PGN (milisegundos): 0.100000
+PGN valido en SKG 1
+
+PGN:fe4e P:6 SA:37 DA:255 Len:8 Data:2 ff ff ff ff ff ff ff 
+Proceso completadoActivacion: 1
+N° de Tramas recibidas: 14
+N° de ciclos realizados (milisegundos): 329
+Tiempo entre PGN (milisegundos): 0.100000
+PGN valido en SKG 1
+
+PGN:fe58 P:6 SA:37 DA:255 Len:8 Data:ff ff ff ff ff ff ff ff 
+Activacion: 1
+N° de Tramas recibidas: 15
+N° de ciclos realizados (milisegundos): 330
+Tiempo entre PGN (milisegundos): 0.100000
+PGN valido en SKG 0
+
+PGN:fda5 P:6 SA:37 DA:255 Len:8 Data:ff ff ff ff ff ff ff ff 
+Activacion: 1
+N° de Tramas recibidas: 16
+N° de ciclos realizados (milisegundos): 330
+Tiempo entre PGN (milisegundos): 0.100000
+PGN valido en SKG 0
+
+PGN:f001 P:6 SA:37 DA:255 Len:8 Data:ff 45 ff ff ff ff ff ff 
+Activacion: 1
+N° de Tramas recibidas: 17
+N° de ciclos realizados (milisegundos): 330
+Tiempo entre PGN (milisegundos): 0.100000
+PGN valido en SKG 0
+
+PGN:f000 P:6 SA:37 DA:255 Len:8 Data:f0 7d ff ff ff ff ff ff 
+Activacion: 1
+N° de Tramas recibidas: 18
+N° de ciclos realizados (milisegundos): 330
+Tiempo entre PGN (milisegundos): 0.100000
+PGN valido en SKG 0
+
+PGN:f009 P:6 SA:37 DA:255 Len:8 Data:ff ff ff ff ff ff ff ff 
+Proceso completadoActivacion: 1
+N° de Tramas recibidas: 19
+N° de ciclos realizados (milisegundos): 330
+Tiempo entre PGN (milisegundos): 0.100000
+PGN valido en SKG 1
+
+PGN:f004 P:3 SA:37 DA:255 Len:8 Data:ff ff 86 cb 12 ff ff ff 
+Proceso completadoActivacion: 1
+N° de Tramas recibidas: 20
+N° de ciclos realizados (milisegundos): 357
+Tiempo entre PGN (milisegundos): 26.900000
+PGN valido en SKG 1
+
+PGN:f003 P:3 SA:37 DA:255 Len:8 Data:ff 0 ff ff ff ff ff ff 
+Activacion: 1
+N° de Tramas recibidas: 21
+N° de ciclos realizados (milisegundos): 374
+Tiempo entre PGN (milisegundos): 16.700001
+PGN valido en SKG 0
+
+PGN:fe6c P:3 SA:37 DA:255 Len:8 Data:38 f ff c0 ff ff 0 0 
+Activacion: 1
+N° de Tramas recibidas: 22
+N° de ciclos realizados (milisegundos): 374
+Tiempo entre PGN (milisegundos): 0.100000
+PGN valido en SKG 0
+
+PGN:f004 P:3 SA:37 DA:255 Len:8 Data:ff ff 86 cb 12 ff ff ff 
+Proceso completadoActivacion: 1
+N° de Tramas recibidas: 23
+N° de ciclos realizados (milisegundos): 414
+Tiempo entre PGN (milisegundos): 40.500000
+PGN valido en SKG 1
+
+PGN:f004 P:3 SA:37 DA:255 Len:8 Data:ff ff 86 ca 12 ff ff ff 
+Proceso completadoActivacion: 1
+N° de Tramas recibidas: 24
+N° de ciclos realizados (milisegundos): 478
+Tiempo entre PGN (milisegundos): 64.199997
+PGN valido en SKG 1
+
+PGN:fee5 P:6 SA:37 DA:255 Len:8 Data:f7 54 1 0 ff ff ff ff 
+Activacion: 1
+N° de Tramas recibidas: 25
+N° de ciclos realizados (milisegundos): 478
+Tiempo entre PGN (milisegundos): 0.100000
+PGN valido en SKG 0
+
+PGN:f004 P:3 SA:37 DA:255 Len:8 Data:ff ff 86 ca 12 ff ff ff 
+Proceso completadoActivacion: 1
+N° de Tramas recibidas: 26
+N° de ciclos realizados (milisegundos): 502
+Tiempo entre PGN (milisegundos): 23.500000
+PGN valido en SKG 1
+
+PGN:fd7d P:6 SA:37 DA:255 Len:8 Data:80 f8 88 8f 88 8f fb 8f 
+Proceso completadoActivacion: 1
+N° de Tramas recibidas: 27
+N° de ciclos realizados (milisegundos): 502
+Tiempo entre PGN (milisegundos): 0.100000
+PGN valido en SKG 1
+
+PGN:f004 P:3 SA:37 DA:255 Len:8 Data:ff ff 86 c3 12 ff ff ff 
+Proceso completadoActivacion: 1
+N° de Tramas recibidas: 28
+N° de ciclos realizados (milisegundos): 530
+Tiempo entre PGN (milisegundos): 28.000000
+PGN valido en SKG 1
+
+PGN:feae P:6 SA:37 DA:255 Len:8 Data:ff ff ff ff ff ff ff ff 
+Activacion: 1
+N° de Tramas recibidas: 29
+N° de ciclos realizados (milisegundos): 530
+Tiempo entre PGN (milisegundos): 0.100000
+PGN valido en SKG 0
+
+PGN:fee6 P:6 SA:37 DA:255 Len:8 Data:a4 37 9 a 14 23 ff ff 
+Activacion: 1
+N° de Tramas recibidas: 30
+N° de ciclos realizados (milisegundos): 541
+Tiempo entre PGN (milisegundos): 11.100000
+PGN valido en SKG 0
+
+PGN:f004 P:3 SA:37 DA:255 Len:8 Data:ff ff 86 c9 12 ff ff ff 
+Proceso completadoActivacion: 1
+N° de Tramas recibidas: 31
+N° de ciclos realizados (milisegundos): 644
+Tiempo entre PGN (milisegundos): 102.900002
+PGN valido en SKG 1
+
+PGN:feea P:6 SA:37 DA:255 Len:8 Data:2f 82 31 ff ff ff ff ff 
+Proceso completadoActivacion: 1
+N° de Tramas recibidas: 32
+N° de ciclos realizados (milisegundos): 644
+Tiempo entre PGN (milisegundos): 0.100000
+PGN valido en SKG 1
+
+PGN:f004 P:3 SA:37 DA:255 Len:8 Data:ff ff 86 c6 12 ff ff ff 
+Proceso completadoActivacion: 1
+N° de Tramas recibidas: 33
+N° de ciclos realizados (milisegundos): 670
+Tiempo entre PGN (milisegundos): 25.700001
+PGN valido en SKG 1
+
+PGN:f004 P:3 SA:37 DA:255 Len:8 Data:ff ff 86 be 12 ff ff ff 
+Proceso completadoActivacion: 1
+N° de Tramas recibidas: 34
+N° de ciclos realizados (milisegundos): 756
+Tiempo entre PGN (milisegundos): 85.599998
+PGN valido en SKG 1
+
+PGN:f003 P:3 SA:37 DA:255 Len:8 Data:ff 0 ff ff ff ff ff ff 
+Activacion: 1
+N° de Tramas recibidas: 35
+N° de ciclos realizados (milisegundos): 756
+Tiempo entre PGN (milisegundos): 0.100000
+PGN valido en SKG 0
+
+PGN:fe6c P:3 SA:37 DA:255 Len:8 Data:38 f ff c0 ff ff 0 0 
+Activacion: 1
+N° de Tramas recibidas: 36
+N° de ciclos realizados (milisegundos): 756
+Tiempo entre PGN (milisegundos): 0.100000
+PGN valido en SKG 0
+
+PGN:fef1 P:6 SA:37 DA:255 Len:8 Data:f3 0 0 5c ff ff 1f ff 
+Proceso completadoActivacion: 1
+N° de Tramas recibidas: 37
+N° de ciclos realizados (milisegundos): 756
+Tiempo entre PGN (milisegundos): 0.100000
+PGN valido en SKG 1
+
+PGN:fef2 P:6 SA:37 DA:255 Len:8 Data:2f 0 0 0 ff ff ff ff 
+Proceso completadoActivacion: 1
+N° de Tramas recibidas: 38
+N° de ciclos realizados (milisegundos): 756
+Tiempo entre PGN (milisegundos): 0.100000
+PGN valido en SKG 1
+
+PGN:f005 P:6 SA:37 DA:255 Len:8 Data:7e ff ff 7e ff ff ff ff 
+Proceso completadoActivacion: 1
+N° de Tramas recibidas: 39
+N° de ciclos realizados (milisegundos): 756
+Tiempo entre PGN (milisegundos): 0.100000
+PGN valido en SKG 1
+
+PGN:fe4e P:6 SA:37 DA:255 Len:8 Data:2 ff ff ff ff ff ff ff 
+Proceso completadoActivacion: 1
+N° de Tramas recibidas: 40
+N° de ciclos realizados (milisegundos): 756
+Tiempo entre PGN (milisegundos): 0.100000
+PGN valido en SKG 1
+
+PGN:fe58 P:6 SA:37 DA:255 Len:8 Data:ff ff ff ff ff ff ff ff 
+Activacion: 1
+N° de Tramas recibidas: 41
+N° de ciclos realizados (milisegundos): 756
+Tiempo entre PGN (milisegundos): 0.100000
+PGN valido en SKG 0
+
+PGN:fda5 P:6 SA:37 DA:255 Len:8 Data:ff ff ff ff ff ff ff ff 
+Activacion: 1
+N° de Tramas recibidas: 42
+N° de ciclos realizados (milisegundos): 756
+Tiempo entre PGN (milisegundos): 0.100000
+PGN valido en SKG 0
+
+PGN:f001 P:6 SA:37 DA:255 Len:8 Data:ff 45 ff ff ff ff ff ff 
+Activacion: 1
+N° de Tramas recibidas: 43
+N° de ciclos realizados (milisegundos): 756
+Tiempo entre PGN (milisegundos): 0.100000
+PGN valido en SKG 0
+
+PGN:f000 P:6 SA:37 DA:255 Len:8 Data:f0 7d ff ff ff ff ff ff 
+Activacion: 1
+N° de Tramas recibidas: 44
+N° de ciclos realizados (milisegundos): 757
+Tiempo entre PGN (milisegundos): 0.100000
+PGN valido en SKG 0
+
+PGN:f009 P:6 SA:37 DA:255 Len:8 Data:ff ff ff ff ff ff ff ff 
+Proceso completadoActivacion: 1
+N° de Tramas recibidas: 45
+N° de ciclos realizados (milisegundos): 757
+Tiempo entre PGN (milisegundos): 0.100000
+PGN valido en SKG 1
+
+PGN:f004 P:3 SA:37 DA:255 Len:8 Data:ff ff 86 be 12 ff ff ff 
+Proceso completadoActivacion: 1
+N° de Tramas recibidas: 46
+N° de ciclos realizados (milisegundos): 757
+Tiempo entre PGN (milisegundos): 0.100000
+PGN valido en SKG 1
+
+PGN:f004 P:3 SA:37 DA:255 Len:8 Data:ff ff 86 c1 12 ff ff ff 
+Proceso completadoActivacion: 1
+N° de Tramas recibidas: 47
+N° de ciclos realizados (milisegundos): 891
+Tiempo entre PGN (milisegundos): 134.600006
+PGN valido en SKG 1
+
+PGN:f003 P:3 SA:37 DA:255 Len:8 Data:ff 0 ff ff ff ff ff ff 
+Activacion: 1
+N° de Tramas recibidas: 48
+N° de ciclos realizados (milisegundos): 891
+Tiempo entre PGN (milisegundos): 0.100000
+PGN valido en SKG 0
+
+PGN:fe6c P:3 SA:37 DA:255 Len:8 Data:38 f ff c0 ff ff 0 0 
+Activacion: 1
+N° de Tramas recibidas: 49
+N° de ciclos realizados (milisegundos): 892
+Tiempo entre PGN (milisegundos): 0.100000
+PGN valido en SKG 0
+
+PGN:fef1 P:6 SA:37 DA:255 Len:8 Data:f3 0 0 5c ff ff 1f ff 
+Proceso completadoActivacion: 1
+N° de Tramas recibidas: 50
+N° de ciclos realizados (milisegundos): 892
+Tiempo entre PGN (milisegundos): 0.100000
+PGN valido en SKG 1
+
+PGN:fef2 P:6 SA:37 DA:255 Len:8 Data:2f 0 0 0 ff ff ff ff 
+Proceso completadoActivacion: 1
+N° de Tramas recibidas: 51
+N° de ciclos realizados (milisegundos): 892
+Tiempo entre PGN (milisegundos): 0.100000
+PGN valido en SKG 1
+
+PGN:f005 P:6 SA:37 DA:255 Len:8 Data:7e ff ff 7e ff ff ff ff 
+Proceso completadoActivacion: 1
+N° de Tramas recibidas: 52
+N° de ciclos realizados (milisegundos): 892
+Tiempo entre PGN (milisegundos): 0.100000
+PGN valido en SKG 1
+
+PGN:fe4e P:6 SA:37 DA:255 Len:8 Data:2 ff ff ff ff ff ff ff 
+Proceso completadoActivacion: 1
+N° de Tramas recibidas: 53
+N° de ciclos realizados (milisegundos): 892
+Tiempo entre PGN (milisegundos): 0.100000
+PGN valido en SKG 1
+
+PGN:fe58 P:6 SA:37 DA:255 Len:8 Data:ff ff ff ff ff ff ff ff 
+Activacion: 1
+N° de Tramas recibidas: 54
+N° de ciclos realizados (milisegundos): 892
+Tiempo entre PGN (milisegundos): 0.100000
+PGN valido en SKG 0
+
+PGN:fda5 P:6 SA:37 DA:255 Len:8 Data:ff ff ff ff ff ff ff ff 
+Activacion: 1
+N° de Tramas recibidas: 55
+N° de ciclos realizados (milisegundos): 892
+Tiempo entre PGN (milisegundos): 0.100000
+PGN valido en SKG 0
+
+PGN:f001 P:6 SA:37 DA:255 Len:8 Data:ff 45 ff ff ff ff ff ff 
+Activacion: 1
+N° de Tramas recibidas: 56
+N° de ciclos realizados (milisegundos): 892
+Tiempo entre PGN (milisegundos): 0.100000
+PGN valido en SKG 0
+
+PGN:f000 P:6 SA:37 DA:255 Len:8 Data:f0 7d ff ff ff ff ff ff 
+Activacion: 1
+N° de Tramas recibidas: 57
+N° de ciclos realizados (milisegundos): 892
+Tiempo entre PGN (milisegundos): 0.100000
+PGN valido en SKG 0
+
+PGN:f009 P:6 SA:37 DA:255 Len:8 Data:ff ff ff ff ff ff ff ff 
+Proceso completadoActivacion: 1
+N° de Tramas recibidas: 58
+N° de ciclos realizados (milisegundos): 892
+Tiempo entre PGN (milisegundos): 0.100000
+PGN valido en SKG 1
+
+PGN:f004 P:3 SA:37 DA:255 Len:8 Data:ff ff 86 c1 12 ff ff ff 
+Proceso completadoActivacion: 1
+N° de Tramas recibidas: 59
+N° de ciclos realizados (milisegundos): 893
+Tiempo entre PGN (milisegundos): 0.100000
+PGN valido en SKG 1
+
+PGN:f004 P:3 SA:37 DA:255 Len:8 Data:ff ff 86 c1 12 ff ff ff 
+Proceso completadoActivacion: 1
+N° de Tramas recibidas: 60
+N° de ciclos realizados (milisegundos): 912
+Tiempo entre PGN (milisegundos): 19.600000
+PGN valido en SKG 1
+
+PGN:f004 P:3 SA:37 DA:255 Len:8 Data:ff ff 86 c0 12 ff ff ff 
+Proceso completadoActivacion: 1
+N° de Tramas recibidas: 61
+N° de ciclos realizados (milisegundos): 929
+Tiempo entre PGN (milisegundos): 17.000000
+PGN valido en SKG 1
+
+PGN:f004 P:3 SA:37 DA:255 Len:8 Data:ff ff 86 c0 12 ff ff ff 
+Proceso completadoActivacion: 1
+N° de Tramas recibidas: 62
+N° de ciclos realizados (milisegundos): 958
+Tiempo entre PGN (milisegundos): 28.500000
+PGN valido en SKG 1
+
+PGN:f004 P:3 SA:37 DA:255 Len:8 Data:ff ff 86 bf 12 ff ff ff 
+Proceso completadoActivacion: 1
+N° de Tramas recibidas: 63
+N° de ciclos realizados (milisegundos): 1043
+Tiempo entre PGN (milisegundos): 85.599998
+PGN valido en SKG 1
+
+PGN:f004 P:3 SA:37 DA:255 Len:8 Data:ff ff 86 c2 12 ff ff ff 
+Proceso completadoActivacion: 1
+N° de Tramas recibidas: 64
+N° de ciclos realizados (milisegundos): 1149
+Tiempo entre PGN (milisegundos): 105.900002
+PGN valido en SKG 1
+
+PGN:f003 P:3 SA:37 DA:255 Len:8 Data:ff 0 ff ff ff ff ff ff 
+Activacion: 1
+N° de Tramas recibidas: 65
+N° de ciclos realizados (milisegundos): 1149
+Tiempo entre PGN (milisegundos): 0.100000
+PGN valido en SKG 0
+
+PGN:fe6c P:3 SA:37 DA:255 Len:8 Data:38 f ff c0 ff ff 0 0 
+Activacion: 1
+N° de Tramas recibidas: 66
+N° de ciclos realizados (milisegundos): 1149
+Tiempo entre PGN (milisegundos): 0.100000
+PGN valido en SKG 0
+
+PGN:fef1 P:6 SA:37 DA:255 Len:8 Data:f3 0 0 5c ff ff 1f ff 
+Proceso completadoActivacion: 1
+N° de Tramas recibidas: 67
+N° de ciclos realizados (milisegundos): 1149
+Tiempo entre PGN (milisegundos): 0.100000
+PGN valido en SKG 1
+
+PGN:fef2 P:6 SA:37 DA:255 Len:8 Data:2f 0 0 0 ff ff ff ff 
+Proceso completadoActivacion: 1
+N° de Tramas recibidas: 68
+N° de ciclos realizados (milisegundos): 1150
+Tiempo entre PGN (milisegundos): 0.100000
+PGN valido en SKG 1
+
+PGN:f005 P:6 SA:37 DA:255 Len:8 Data:7e ff ff 7e ff ff ff ff 
+Proceso completadoActivacion: 1
+N° de Tramas recibidas: 69
+N° de ciclos realizados (milisegundos): 1150
+Tiempo entre PGN (milisegundos): 0.100000
+PGN valido en SKG 1
+
+PGN:fe4e P:6 SA:37 DA:255 Len:8 Data:2 ff ff ff ff ff ff ff 
+Proceso completadoActivacion: 1
+N° de Tramas recibidas: 70
+N° de ciclos realizados (milisegundos): 1150
+Tiempo entre PGN (milisegundos): 0.100000
+PGN valido en SKG 1
+
+PGN:fe58 P:6 SA:37 DA:255 Len:8 Data:ff ff ff ff ff ff ff ff 
+Activacion: 1
+N° de Tramas recibidas: 71
+N° de ciclos realizados (milisegundos): 1150
+Tiempo entre PGN (milisegundos): 0.100000
+PGN valido en SKG 0
+
+PGN:fda5 P:6 SA:37 DA:255 Len:8 Data:ff ff ff ff ff ff ff ff 
+Activacion: 1
+N° de Tramas recibidas: 72
+N° de ciclos realizados (milisegundos): 1150
+Tiempo entre PGN (milisegundos): 0.100000
+PGN valido en SKG 0
+
+PGN:f001 P:6 SA:37 DA:255 Len:8 Data:ff 45 ff ff ff ff ff ff 
+Activacion: 1
+N° de Tramas recibidas: 73
+N° de ciclos realizados (milisegundos): 1150
+Tiempo entre PGN (milisegundos): 0.100000
+PGN valido en SKG 0
+
+PGN:f000 P:6 SA:37 DA:255 Len:8 Data:f0 7d
