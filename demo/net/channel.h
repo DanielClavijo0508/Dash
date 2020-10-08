@@ -1,7 +1,7 @@
 #ifndef _DEMO_NET_CHANNEL_H_
 #define _DEMO_NET_CHANNEL_H_
 
-#include <poll.h>
+#include </data/Dash/demo/poll.h>
 #include <string>
 using std::string;
 

@@ -1,6 +1,6 @@
-#include "net/poller.h"
-#include "base/log.h"
-#include "net/channel.h"
+#include "/data/Dash/demo/net/poller.h"
+#include "/data/Dash/demo/base/log.h"
+#include "/data/Dash/demo/net/channel.h"
 using namespace demo::base;
 
 #include <assert.h>
