@@ -6,10 +6,10 @@
 #ifndef JSON_JSON_H_INCLUDED
 # define JSON_JSON_H_INCLUDED
 
-# include "/data/Dash/demo/autolink.h"
-# include "/data/Dash/demo/value.h"
-# include "/data/Dash/demo/reader.h"
-# include "/data/Dash/demo/writer.h"
-# include "/data/Dash/demo/features.h"
+# include "/data/Dash/demo/json/autolink.h"
+# include "/data/Dash/demo/json/value.h"
+# include "/data/Dash/demo/json/reader.h"
+# include "/data/Dash/demo/json/writer.h"
+# include "/data/Dash/demo/json/features.h"
 
 #endif // JSON_JSON_H_INCLUDED

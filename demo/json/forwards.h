@@ -7,7 +7,7 @@
 # define JSON_FORWARDS_H_INCLUDED
 
 #if !defined(JSON_IS_AMALGAMATION)
-# include "/data/Dash/demo/config.h"
+# include "/data/Dash/demo/json/config.h"
 #endif // if !defined(JSON_IS_AMALGAMATION)
 
 namespace Json {

@@ -6,7 +6,7 @@
 #if !defined(JSON_IS_AMALGAMATION)
 # include </data/Dash/demo/json/reader.h>
 # include </data/Dash/demo/json/value.h>
-# include "/data/Dash/demo/json_tool.h"
+# include "/data/Dash/demo/json/json_tool.h"
 #endif // if !defined(JSON_IS_AMALGAMATION)
 #include <utility>
 #include <cstdio>

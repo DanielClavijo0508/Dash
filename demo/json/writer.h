@@ -7,7 +7,7 @@
 # define JSON_WRITER_H_INCLUDED
 
 #if !defined(JSON_IS_AMALGAMATION)
-# include "/data/Dash/demo/value.h"
+# include "/data/Dash/demo/json/value.h"
 #endif // if !defined(JSON_IS_AMALGAMATION)
 # include <vector>
 # include <string>
