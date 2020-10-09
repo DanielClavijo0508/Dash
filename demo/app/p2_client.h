@@ -1,11 +1,11 @@
 #ifndef _DEMO_APP_P2_CLIENT_H_
 #define _DEMO_APP_P2_CLIENT_H_
 
-#include "net/channel.h"
-#include "net/poller.h"
+#include "/data/Dash/demo/net/channel.h"
+#include "/data/Dash/demo/net/poller.h"
 using demo::net::Poller;
 
-#include "base/json_utils.h"
+#include "/data/Dash/demo/base/json_utils.h"
 
 #include <stdint.h>
 #include <deque>
