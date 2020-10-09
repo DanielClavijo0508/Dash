@@ -7,8 +7,8 @@
 # define CPPTL_JSON_READER_H_INCLUDED
 
 #if !defined(JSON_IS_AMALGAMATION)
-# include "/data/Dash/demo/json/json/features.h"
-# include "/data/Dash/demo/json/json/value.h"
+# include "/data/Dash/demo/json/features.h"
+# include "/data/Dash/demo/json/value.h"
 #endif // if !defined(JSON_IS_AMALGAMATION)
 # include <deque>
 # include <stack>
